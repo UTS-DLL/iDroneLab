@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Chen",
+      "role": "Lab Director",
+      "specialty": "Robotics & AI Specialist",
+      "email": "sarah.chen@uts.edu.au",
+      "initials": "SC"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Michael Rodriguez",
+      "role": "Senior Research Fellow",
+      "specialty": "Computer Vision & Navigation",
+      "email": "michael.rodriguez@uts.edu.au",
+      "initials": "MR"
+    }
+  ]
+}
